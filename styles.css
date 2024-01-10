@@ -163,12 +163,6 @@ body {
     animation-delay: -0;
     height: 400;
   }
-  
-  .slider .slide:nth-child(3) {
-    background-image: url('pic5.png');
-    animation-delay: -4s;
-    height: 400;
-  }
     
   .slider .slide:nth-child(3) {
     background-image: url('pic4.png');

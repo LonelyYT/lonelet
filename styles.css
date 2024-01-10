@@ -187,7 +187,12 @@ body {
     animation-delay: -8s;
     height: 4zzzz00;
   }
-  
+
+  .slider .slide:nth-child(5) {
+    background-image: url('chart_1.png');
+    animation-delay: -8s;
+    height: 4zzzz00;
+  }
   @keyframes slide {
     0%, 15%, 100% {
       transform: translateX(0);
